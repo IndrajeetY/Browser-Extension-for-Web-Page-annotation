@@ -1,4 +1,5 @@
 **Web Text Editor & Highlighter**
+ 
   Web Text Editor & Highlighter is a lightweight Chrome extension that allows you to edit, highlight, and annotate text directly on webpages for your personal use.
   When you select text, a smart floating toolbar appears near your selection, giving you quick access to powerful editing tools — similar to professional web annotation extensions.
 
