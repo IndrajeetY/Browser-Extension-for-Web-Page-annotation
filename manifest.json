@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Web Text Editor & Highlighter",
+  "description": "Edit, highlight, and persist text changes on webpages.",
+  "version": "0.1",
+  "permissions": ["storage"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ]
+}
